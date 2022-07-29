@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cryptonaukriassignment/static/css/main.b531ee3c.css",
-    "main.js": "/cryptonaukriassignment/static/js/main.bd02fc75.js",
+    "main.js": "/cryptonaukriassignment/static/js/main.943ee0b8.js",
     "static/media/background.jpg": "/cryptonaukriassignment/static/media/background.79c89a12b298ce06eb06.jpg",
     "static/media/gp.svg": "/cryptonaukriassignment/static/media/gp.603ee58d520b8ca1b075.svg",
     "static/media/gs.svg": "/cryptonaukriassignment/static/media/gs.a93dfcd2078b5d7760b3.svg",
@@ -263,10 +263,10 @@
     "static/media/pl.svg": "/cryptonaukriassignment/static/media/pl.763e2468bffb1b7a479c.svg",
     "static/media/jp.svg": "/cryptonaukriassignment/static/media/jp.09629d053dcc1f13082f.svg",
     "main.b531ee3c.css.map": "/cryptonaukriassignment/static/css/main.b531ee3c.css.map",
-    "main.bd02fc75.js.map": "/cryptonaukriassignment/static/js/main.bd02fc75.js.map"
+    "main.943ee0b8.js.map": "/cryptonaukriassignment/static/js/main.943ee0b8.js.map"
   },
   "entrypoints": [
     "static/css/main.b531ee3c.css",
-    "static/js/main.bd02fc75.js"
+    "static/js/main.943ee0b8.js"
   ]
 }
