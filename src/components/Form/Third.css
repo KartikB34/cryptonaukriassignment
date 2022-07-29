@@ -1,0 +1,94 @@
+.first-content{
+    padding: 3rem 3rem 0;
+    width: 32rem;
+    
+    align-content: center;
+    /* text-align: left; */
+}
+
+.first-text h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.first-text p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #8692A6;
+}
+
+.first-container{
+    width:auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.terms {
+    display: flex;
+    flex-direction: row;
+}
+
+.terms p{
+    margin-left: 0.5rem;
+}
+
+.input-div_three{
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+.input p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #696F79;
+}
+
+.button-three button{
+    width: 100%;
+    height: 3.5rem;
+    border-radius: 7px;
+}
+
+@media screen and (max-width: 1025px){
+    .first-content{
+        width: 25rem;
+    }
+
+    .first-text h2{
+        font-size: 20px;
+    }
+    
+    .first-text p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+
+
+@media screen and (max-width: 830px){
+    .first-content{
+        width: 22rem;
+    }
+
+    .first-text h2{
+        font-size: 20px;
+    }
+    
+    .first-text p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .first-container{
+        margin-bottom: 2rem;
+    }
+  }
